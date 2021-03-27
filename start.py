@@ -1,5 +1,6 @@
 import subprocess
 import requests
+import time
 from config import settings
 token=settings['TOKEN']	# Типа определил токен, но он не будет использован:)
 
